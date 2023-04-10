@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+#gamecontainer{
+    text-align: center;
+}
+
+#gameboard{
+    border: 3px solid #2e0614 ;
+    border-radius: 10px;
+}
+#scoretext{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+    color: #242229;
+}
+#resetbtn{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30px;
+    width: 100px;
+    height: 50px;
+    /* border: 4px solid white; */
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: black;
+    color: #c7b9eb ;
+}
